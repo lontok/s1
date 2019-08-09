@@ -1,4 +1,4 @@
-# Melinda Le's Mini-Portfolio for the Online Marketing Analyst Role
+## Melinda Le Online Marketing Analyst Role Mini-Portfolio
 
 ## Dataset
 The dataset was taken from a class assignment with the following requirements.
